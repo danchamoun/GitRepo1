@@ -1,1 +1,2 @@
 This is another file
+Lest's add a second line to file 2
